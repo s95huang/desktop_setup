@@ -1,10 +1,21 @@
-## 3090 TUF
+## 40 series machine
+```
+Ubuntu 22
+CUDA 12.2
+CUDNN 8.8/8.9
+TensorRT 8.6
+
+```
+
+
+
+## 30 Machine
 ```
 CUDA 11.4
 CUDNN 8.2.4
 TensorRT 8.4 GA Update 2
 ```
-## loopx_new_arch
+## jetson AGX and desktop
 
 ```
 CUDA 10.2
